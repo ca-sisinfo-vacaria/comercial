@@ -36,4 +36,5 @@ Contate os integrantes da equipe de CA do curso para sugerir ideias de melhorias
 
 ## 📌 Licença
 
-Este repositório é de uso interno do Centro Acadêmico e colaboradores. Sinta-se à vontade para utilizar os modelos e ideias, mas credite a fonte quando for o caso.
+Este repositório é de uso interno do Centro Acadêmico de Sistemas de Informação do Instituto Federal do Rio Grande do Sul campus Vacaria e colaboradores. Sinta-se à vontade para utilizar os modelos e ideias, mas credite a fonte quando for o caso.
+@ 2025
